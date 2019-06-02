@@ -1,0 +1,15 @@
+{ 
+    "welcome" : 
+    [
+        "All rise for {name}, for they have joined {group_name}.",
+        "Oh shit {name} just waltzed in here. Shit\"s about to go down.",
+        "Welcome to our group {name}. Leaving is not an option.",
+        "My mum said I need to be nicer to people. So I made a bot to greet you {name}.",
+        "Welcome to AmErIcA, {name}"
+    ],
+    "goodbye" :
+    [
+        "Goodbye {name}, thanks for leaving!",
+        "Did {name} just leave?"   
+    ]
+}
